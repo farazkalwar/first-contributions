@@ -188,6 +188,7 @@
 - [Owen Abramson](https://github.com/owenabramson5)
 - [Sunny Paul](https://github.com/Sunnypaul393)
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
+- [Toprak Kis](https://github.com/toprakkis)
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
 - [TJ Ries](https://github.com/tj-ries)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
@@ -1214,6 +1215,7 @@ Karol Sykała
 - [Amrit](https://github.com/thelastpawn009)
 - [DocHaaz](https://github.com/DocHaaz)
 - [Hendrik Welschoff](https://github.com/welschoff)
+  Mohammed Ameen
 - [Edian Ibarrola](https://github.com/edianibarrola)
 - [Sashweana Rajendran](https://github.com/Sashweana)
 - [Lars Schöbitz](https://github.com/larnsce/)
